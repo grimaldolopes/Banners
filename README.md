@@ -4,3 +4,4 @@
 ![Plano de ação](https://user-images.githubusercontent.com/85241884/197225120-a1259f1b-edd2-45d3-a36e-a554dc16c172.png)
 ![Mapa Mental Dados](https://user-images.githubusercontent.com/85241884/197225465-97eff587-2447-4bec-bf54-e35295560ff7.png)
 ![7 assuntos para você entrar na área de dados](https://user-images.githubusercontent.com/85241884/199311703-61ab263b-b22c-4be5-a795-6251d92aaf0f.png)
+![problemas em dados](https://user-images.githubusercontent.com/85241884/199311873-bbf89f45-c912-472b-a907-e72e09e86c8c.png)
