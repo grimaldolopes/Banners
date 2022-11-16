@@ -8,3 +8,4 @@
 ![problemas em dados](https://user-images.githubusercontent.com/85241884/199311873-bbf89f45-c912-472b-a907-e72e09e86c8c.png)
 ![Hierarquia dos dados](https://user-images.githubusercontent.com/85241884/200581040-35c22d95-3356-44fd-a225-cc86ecba404a.png)
 ![Construção de pipelines](https://user-images.githubusercontent.com/85241884/201644840-f0fc6b1a-f9f7-4742-896d-70da6592a4db.png)
+![preparacao dado](https://user-images.githubusercontent.com/85241884/202192634-409f38dc-ce5a-4537-8574-4a85ae1e42e6.png)
