@@ -13,3 +13,4 @@
 ![Pipula Databricks Delta Lake -1](https://user-images.githubusercontent.com/85241884/202718471-89c89a54-8b0a-4cfd-9545-9e90bbec4072.png)
 ![Pipula Databricks Delta Lake - 2](https://user-images.githubusercontent.com/85241884/202718480-020e1c0d-6424-4909-b423-83cdf195fcba.png)
 ![Cópia de Pipula Databricks Delta Lake - 3](https://user-images.githubusercontent.com/85241884/203324938-43fef16d-ec7b-459a-8bc1-525987a77a90.png)
+![Orange data science - 2](https://user-images.githubusercontent.com/85241884/203810014-e274ac1d-223b-4a6e-a6ab-1be5554937c2.png)
