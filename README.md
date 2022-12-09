@@ -15,3 +15,4 @@
 ![Cópia de Pipula Databricks Delta Lake - 3](https://user-images.githubusercontent.com/85241884/203324938-43fef16d-ec7b-459a-8bc1-525987a77a90.png)
 ![Orange data science - 2](https://user-images.githubusercontent.com/85241884/203810014-e274ac1d-223b-4a6e-a6ab-1be5554937c2.png)
 ![pense em dados](https://user-images.githubusercontent.com/85241884/204783141-832b14f5-fc4b-4c29-9a58-d62789c08e2e.jpg)
+![dados mapa mental (1)](https://user-images.githubusercontent.com/85241884/206693791-595363ed-3fcd-42e9-8540-98ca9f127a9c.png)
