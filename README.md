@@ -16,3 +16,7 @@
 ![Orange data science - 2](https://user-images.githubusercontent.com/85241884/203810014-e274ac1d-223b-4a6e-a6ab-1be5554937c2.png)
 ![pense em dados](https://user-images.githubusercontent.com/85241884/204783141-832b14f5-fc4b-4c29-9a58-d62789c08e2e.jpg)
 ![dados mapa mental (1)](https://user-images.githubusercontent.com/85241884/206693791-595363ed-3fcd-42e9-8540-98ca9f127a9c.png)
+![Como ter sucesso na sua entrega em dados](https://user-images.githubusercontent.com/85241884/208912706-725f2b4c-aef9-4662-af87-9e1e6194ccd0.png)
+![dados mapa mental](https://user-images.githubusercontent.com/85241884/208912733-49d6bdb0-7a5f-44af-888d-0b94d2d523cc.png)
+![Power BI com R - 1](https://user-images.githubusercontent.com/85241884/208912752-bf4fbd95-fd7a-4dc6-b696-9eceae2a50ef.png)
+![Power BI com R - 2](https://user-images.githubusercontent.com/85241884/208912776-bb1a9a3c-cf0e-4750-b905-15f828d1c564.png)
