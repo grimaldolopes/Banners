@@ -19,3 +19,4 @@
 ![Como ter sucesso na sua entrega em dados](https://user-images.githubusercontent.com/85241884/208912706-725f2b4c-aef9-4662-af87-9e1e6194ccd0.png)
 ![Power BI com R - 1](https://user-images.githubusercontent.com/85241884/208912752-bf4fbd95-fd7a-4dc6-b696-9eceae2a50ef.png)
 ![Power BI com R - 2](https://user-images.githubusercontent.com/85241884/208912776-bb1a9a3c-cf0e-4750-b905-15f828d1c564.png)
+![Time line - aprender sobre dados](https://user-images.githubusercontent.com/85241884/211820512-dd29b840-dcb7-4fa2-90bd-bdaac43db70a.jpg)
