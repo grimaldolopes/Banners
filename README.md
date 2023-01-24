@@ -21,3 +21,4 @@
 ![Power BI com R - 2](https://user-images.githubusercontent.com/85241884/208912776-bb1a9a3c-cf0e-4750-b905-15f828d1c564.png)
 ![Time line - aprender sobre dados](https://user-images.githubusercontent.com/85241884/211820512-dd29b840-dcb7-4fa2-90bd-bdaac43db70a.jpg)
 ![Diagrama DADOS](https://user-images.githubusercontent.com/85241884/213521449-8e849ca6-f34c-4e22-801a-344326c3a078.png)
+![NiFi -2](https://user-images.githubusercontent.com/85241884/214280912-91710b84-fc7c-4d22-914e-a748ed5f21a5.png)
